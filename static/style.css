@@ -1,0 +1,56 @@
+
+
+.dialogue {
+			text-align:center; color:white;
+		}
+
+.continue {
+			text-align:right
+		}
+
+
+.centerimage {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+
+.center {
+			display: block;
+			margin-left: auto;
+			margin-right: 180px;
+		}
+
+body {
+    	    background-color: #d6b47e!important;
+	}
+
+
+@font-face {
+    font-family: "fairydust";
+    src: url(FairyDustB.ttf) format("truetype");
+}
+
+
+@media only screen and (max-width: 600px){
+
+
+
+		.continue {
+			text-align: auto;
+			margin-bottom: 40px;
+		}
+
+
+		.center {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+
+		.left {	float:left;
+		}
+
+	}
