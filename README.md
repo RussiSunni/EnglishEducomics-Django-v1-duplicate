@@ -1,1 +1,2 @@
-# EnglishEducomics-Django-v2
+Basic web app running on Django framework (Python).
+
